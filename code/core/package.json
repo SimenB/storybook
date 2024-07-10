@@ -255,7 +255,7 @@
     "process": "^0.11.10",
     "recast": "^0.23.5",
     "util": "^0.12.4",
-    "ws": "^8.2.3"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "@aw-web-design/x-default-browser": "1.4.126",
